@@ -9,7 +9,7 @@ namespace FirstApp
         {
             using (helloappdbContext db = new helloappdbContext())
             {
-                // получаем объекты из бд и выводим на консоль
+                // получаем объекты из Бд и выводим на консоль
                 var users = db.Users.ToList();
                 Console.WriteLine("Список объектов:");
                 foreach (User u in users)

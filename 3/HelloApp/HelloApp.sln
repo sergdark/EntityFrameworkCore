@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloApp", "HelloApp\HelloApp.csproj", "{CFB7A800-5D78-4931-90FB-155DADBCE324}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{90208238-4038-4BC8-89C9-51E51F057DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFB7A800-5D78-4931-90FB-155DADBCE324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB7A800-5D78-4931-90FB-155DADBCE324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB7A800-5D78-4931-90FB-155DADBCE324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB7A800-5D78-4931-90FB-155DADBCE324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90208238-4038-4BC8-89C9-51E51F057DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90208238-4038-4BC8-89C9-51E51F057DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90208238-4038-4BC8-89C9-51E51F057DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90208238-4038-4BC8-89C9-51E51F057DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3D2BA38-095C-4FC0-A272-278DE3C52D64}
+	EndGlobalSection
+EndGlobal
