@@ -1,0 +1,14 @@
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.2\FirstApp.deps.json
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.2\FirstApp.runtimeconfig.json
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.2\FirstApp.runtimeconfig.dev.json
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.2\FirstApp.dll
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.2\FirstApp.pdb
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.2\FirstApp.csprojAssemblyReference.cache
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.2\FirstApp.csproj.CoreCompileInputs.cache
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.2\FirstApp.AssemblyInfoInputs.cache
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.2\FirstApp.AssemblyInfo.cs
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.2\FirstApp.dll
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.2\FirstApp.pdb
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.2\DataLayer.dll
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\bin\Debug\netcoreapp2.2\DataLayer.pdb
+D:\project\c#\Entity Framework Core\2\FirstApp\FirstApp\obj\Debug\netcoreapp2.2\FirstApp.csproj.CopyComplete
