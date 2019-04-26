@@ -943,19 +943,6 @@
         "compile": {
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
-      },
-      "DataLayer/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.SqlServer": "2.2.4"
-        },
-        "compile": {
-          "bin/placeholder/DataLayer.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/DataLayer.dll": {}
-        }
       }
     }
   },
@@ -3616,16 +3603,10 @@
         "ref/xamarintvos10/_._",
         "ref/xamarinwatchos10/_._"
       ]
-    },
-    "DataLayer/1.0.0": {
-      "type": "project",
-      "path": "../DataLayer/DataLayer.csproj",
-      "msbuildProject": "../DataLayer/DataLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "DataLayer >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 2.2.4",
       "Microsoft.EntityFrameworkCore.Tools >= 2.2.4",
       "Microsoft.NETCore.App >= 2.2.0"
@@ -3638,11 +3619,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\project\\c#\\Entity Framework Core\\1\\HelloApp\\HelloApp\\HelloApp.csproj",
-      "projectName": "HelloApp",
-      "projectPath": "D:\\project\\c#\\Entity Framework Core\\1\\HelloApp\\HelloApp\\HelloApp.csproj",
+      "projectUniqueName": "D:\\project\\c#\\Entity Framework Core\\1\\HelloApp\\DataLayer\\DataLayer.csproj",
+      "projectName": "DataLayer",
+      "projectPath": "D:\\project\\c#\\Entity Framework Core\\1\\HelloApp\\DataLayer\\DataLayer.csproj",
       "packagesPath": "C:\\Users\\dark\\.nuget\\packages\\",
-      "outputPath": "D:\\project\\c#\\Entity Framework Core\\1\\HelloApp\\HelloApp\\obj\\",
+      "outputPath": "D:\\project\\c#\\Entity Framework Core\\1\\HelloApp\\DataLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3660,11 +3641,7 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {
-            "D:\\project\\c#\\Entity Framework Core\\1\\HelloApp\\DataLayer\\DataLayer.csproj": {
-              "projectPath": "D:\\project\\c#\\Entity Framework Core\\1\\HelloApp\\DataLayer\\DataLayer.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
