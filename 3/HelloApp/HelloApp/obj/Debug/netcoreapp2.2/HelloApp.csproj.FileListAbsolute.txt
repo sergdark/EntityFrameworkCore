@@ -12,3 +12,4 @@ D:\project\c#\Entity Framework Core\3\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\
 D:\project\c#\Entity Framework Core\3\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.csproj.CopyComplete
 D:\project\c#\Entity Framework Core\3\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.dll
 D:\project\c#\Entity Framework Core\3\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.pdb
+D:\project\c#\Entity Framework Core\3\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\appsettings.json

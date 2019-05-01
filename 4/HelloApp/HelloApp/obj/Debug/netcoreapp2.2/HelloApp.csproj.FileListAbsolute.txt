@@ -1,0 +1,15 @@
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\HelloApp.deps.json
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\HelloApp.runtimeconfig.json
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\HelloApp.runtimeconfig.dev.json
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\HelloApp.dll
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.csprojAssemblyReference.cache
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.csproj.CoreCompileInputs.cache
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.AssemblyInfoInputs.cache
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.AssemblyInfo.cs
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\HelloApp.pdb
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.dll
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.pdb
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\DataLayer.dll
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\DataLayer.pdb
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\obj\Debug\netcoreapp2.2\HelloApp.csproj.CopyComplete
+D:\project\c#\Entity Framework Core\4\HelloApp\HelloApp\bin\Debug\netcoreapp2.2\appsettings.json
